@@ -1,0 +1,9 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "Learning websocket",
+  "main": "index.js",
+  "repository": "https://github.com/heriniavo93/websocket.git",
+  "author": "Andry",
+  "license": "MIT"
+}
